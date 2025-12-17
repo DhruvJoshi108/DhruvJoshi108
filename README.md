@@ -1,32 +1,83 @@
-<h1 align="center">Hi 👋, I'm Dhruv Prakash</h1>
-<h3 align="center">A passionate Data Science from AAFT.</h3>
+# Hi there, I'm Dhruv Prakash 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvjoshi108&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvjoshi108" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRnM2x3OGQ0ZDZvYnBzd3Q3eWE3bDNxN3F3ZjB5eGRhMm5rb2dlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPqsXYcdjcBcXL2/giphy.gif" width="500" alt="AI Brain Animation"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvjoshi108" alt="dhruvjoshi108" /></a> </p>
+## 📊 BSc Data Science Student | AI & ML Enthusiast | Problem Solver
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm a 3rd semester Data Science undergraduate passionate about Artificial Intelligence and Machine Learning. I love exploring how algorithms can learn from data and solve complex problems. Always eager to learn new techniques and build intelligent systems.
 
-- 🌱 I’m currently learning **Python , MongoDB , PowerBI , MySql**
+### 🔭 What I'm Working On
+- Expanding my knowledge in AI and Machine Learning
+- Building projects in NLP, Deep Learning, and Predictive Analytics
+- Exploring real-world applications of ML algorithms
 
-- 💬 Ask me about **Python , MongoDB**
+### 🌱 Currently Learning
+- Advanced Machine Learning algorithms
+- Deep Learning with PyTorch and TensorFlow
+- Natural Language Processing techniques
+- Neural Networks and their applications
 
-- 📫 How to reach me **Joshidhruv222@gmail.com**
+### 💻 Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dhruv-prakash-8967b3306/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="dhruvprakash108" height="30" width="40" /></a>
-</p>
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>mongodb
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> mysql
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>python </p>
+**Data Analysis & Manipulation**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvjoshi108&show_icons=true&locale=en&layout=compact" alt="dhruvjoshi108" /></p>
+**Machine Learning**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjoshi108&show_icons=true&locale=en" alt="dhruvjoshi108" /></p>
+**Data Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvjoshi108&" alt="dhruvjoshi108" /></p>
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**Tools & Platforms**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvJoshi108&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJoshi108&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</div>
+
+### 🏆 Featured Projects
+
+#### 📌 [Named Entity Recognition with spaCy](https://github.com/DhruvJoshi108)
+Implemented NER to identify entities like names, organizations, and locations in text using spaCy. Performed sentence segmentation to analyze text structure for NLP tasks.
+
+#### 📌 [Logistic Regression on IMDB Dataset](https://github.com/DhruvJoshi108)
+Built a sentiment analysis model using Logistic Regression to classify movie reviews from the IMDB dataset, exploring feature engineering and model evaluation techniques.
+
+#### 📌 [Fashion MNIST with PyTorch](https://github.com/DhruvJoshi108)
+Developed a deep learning model using PyTorch to classify fashion items from the Fashion MNIST dataset, implementing CNNs for image recognition.
+
+#### 📌 [Customer Churn Prediction](https://github.com/DhruvJoshi108)
+Created a predictive model to identify customers likely to churn, helping businesses improve retention strategies through data-driven insights.
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-prakash-8967b3306/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshidhruv222@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvJoshi108)
+
+---
+
+<div align="center">
+  <i>💡 "In God we trust. All others must bring data." - W. Edwards Deming</i>
+</div>
