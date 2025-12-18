@@ -4,9 +4,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Machine Learning Animation"/>
 </div>
 
-## 📊 BSc Data Science Student | AI & ML Enthusiast | Problem Solver
+## 📊 BSc Data Science  | AI & ML Enthusiast | Problem Solver
 
-I'm a 3rd semester Data Science undergraduate passionate about Artificial Intelligence and Machine Learning. I love exploring how algorithms can learn from data and solve complex problems. Always eager to learn new techniques and build intelligent systems.
+I'm a semester Data Science undergraduate passionate about Artificial Intelligence and Machine Learning. I love exploring how algorithms can learn from data and solve complex problems. Always eager to learn new techniques and build intelligent systems.
 
 ### 🔭 What I'm Working On
 - Expanding my knowledge in AI and Machine Learning
