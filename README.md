@@ -59,19 +59,20 @@ I'm motivated by the transformative potential of Data Science in today's world. 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 📈 GitHub Stats
+# 📈 GitHub Contribution Grapgh
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvJoshi108&show_icons=true&theme=radical&hide_border=true"/>
-</p>
+[![](https://github-readme-activity-graph.vercel.app/graph?username=suneetpaul&theme=react-dark&hide_border=true&area=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJoshi108&layout=compact&theme=radical&hide_border=true"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DhruvJoshi108&theme=radical&hide_border=true"/>
-</p>
+## 🚀 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=suneetpaul&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=suneetpaul&theme=gruvbox&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suneetpaul&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+---
+
+
 
 ### 🏆 Featured Projects
 
