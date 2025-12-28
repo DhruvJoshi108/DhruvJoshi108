@@ -1,12 +1,12 @@
 # Hi there, I'm Dhruv Prakash 👋
 
 <div align="center">
-  <img src="https://miro.medium.com/max/1400/1*kblux8ItTpq02rUQ4VOCpQ.gif" width="700" alt="NLP Text Processing"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQxYTR5eGRqZnBtdGRxZXVicjFqOHFwMnptMnY3aWkyOWU3OXJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Python Logo Animation"/>
 </div>
 
 ## 📊 BSc Data Science  | Aspiring Data Scientist
 
-I'm a Data Science undergraduate with a strong passion for Artificial Intelligence and Machine Learning. My goal is to become a Data Scientist and leverage AI to solve real-world problems that create meaningful impact.
+I'm a  Data Science undergraduate with a strong passion for Artificial Intelligence and Machine Learning. My goal is to become a Data Scientist and leverage AI to solve real-world problems that create meaningful impact.
 
 ### 💡 About Me
 
@@ -62,8 +62,12 @@ I'm motivated by the transformative potential of Data Science in today's world. 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvJoshi108&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJoshi108&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvJoshi108&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJoshi108&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvJoshi108&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 ### 🏆 Featured Projects
