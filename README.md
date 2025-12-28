@@ -1,12 +1,12 @@
 # Hi there, I'm Dhruv Prakash 👋
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQxYTR5eGRqZnBtdGRxZXVicjFqOHFwMnptMnY3aWkyOWU3OXJxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Python Logo Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="700" alt="AI Technology Banner"/>
 </div>
 
-## 📊 BSc Data Science  | Aspiring Data Scientist
+## 📊 Aspiring Data Scientist | AI & ML Enthusiast
 
-I'm a  Data Science undergraduate with a strong passion for Artificial Intelligence and Machine Learning. My goal is to become a Data Scientist and leverage AI to solve real-world problems that create meaningful impact.
+I'm passionate about Artificial Intelligence and Machine Learning, with a strong focus on leveraging data to solve real-world problems. My goal is to become a Data Scientist and create meaningful impact through intelligent systems.
 
 ### 💡 About Me
 
@@ -61,14 +61,14 @@ I'm motivated by the transformative potential of Data Science in today's world. 
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvJoshi108&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJoshi108&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvJoshi108&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJoshi108&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvJoshi108&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvJoshi108&theme=radical&hide_border=true" alt="GitHub Streak" width="70%"/>
+</p>
 
 ### 🏆 Featured Projects
 
