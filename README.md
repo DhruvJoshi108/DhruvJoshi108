@@ -61,15 +61,15 @@ I'm motivated by the transformative potential of Data Science in today's world. 
 
 # 📈 GitHub Contribution Grapgh
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=suneetpaul&theme=react-dark&hide_border=true&area=true)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=DhruvJoshi108&theme=react-dark&hide_border=true&area=true)
 
 ---
 
 ## 🚀 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=suneetpaul&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=suneetpaul&theme=gruvbox&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suneetpaul&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DhruvJoshi108&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=DhruvJoshi108&theme=gruvbox&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJoshi108&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
 
 
