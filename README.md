@@ -1,12 +1,22 @@
 # Hi there, I'm Dhruv Prakash 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Machine Learning Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="AI Machine Learning Animation"/>
 </div>
 
-## 📊 BSc Data Science  | AI & ML Enthusiast | Problem Solver
+## 📊 BSc Data Science Student | Aspiring Data Scientist
 
-I'm a semester Data Science undergraduate passionate about Artificial Intelligence and Machine Learning. I love exploring how algorithms can learn from data and solve complex problems. Always eager to learn new techniques and build intelligent systems.
+I'm a third-semester Data Science undergraduate with a strong passion for Artificial Intelligence and Machine Learning. My goal is to become a Data Scientist and leverage AI to solve real-world problems that create meaningful impact.
+
+### 💡 About Me
+
+I believe in learning by doing. My approach combines hands-on project development with deep dives into research papers to understand both the practical and theoretical aspects of Data Science. I'm particularly fascinated by **Natural Language Processing** and **Computer Vision**, where machines can understand human language and interpret visual information.
+
+Currently, I'm expanding my expertise in **Deep Learning**, exploring neural networks and advanced architectures to build more intelligent and efficient models. Every project I work on is a step toward mastering the art and science of extracting insights from data.
+
+### 🎯 What Drives Me
+
+I'm motivated by the transformative potential of Data Science in today's world. The ability to turn raw data into actionable insights, automate complex tasks, and build systems that learn and adapt excites me. I'm committed to continuous learning and staying at the forefront of AI/ML innovations.
 
 ### 🔭 What I'm Working On
 - Expanding my knowledge in AI and Machine Learning
