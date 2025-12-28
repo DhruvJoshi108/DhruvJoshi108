@@ -61,7 +61,7 @@ I'm motivated by the transformative potential of Data Science in today's world. 
 
 # 📈 GitHub Contribution Grapgh
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=DhruvJoshi108&theme=react-dark&hide_border=true&area=true)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=DhruvJoshi108&theme=react-dark&hide_border=true&area=true)]
 
 ---
 
