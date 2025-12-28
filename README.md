@@ -1,12 +1,12 @@
 # Hi there, I'm Dhruv Prakash 👋
 
 <div align="center">
-  <img src="https://miro.medium.com/max/1280/1*Yqsp8ASJl1E_FXR2pZ5axQ.gif" width="800" alt="AI Data Science Banner"/>
+  <img src="https://cdn-images-1.medium.com/max/1600/1*nWHNQZ3Jxs8mf4XFHK6uLw.gif" width="800" alt="AI Data Science Banner"/>
 </div>
 
-## 📊 BSc Data Science Student | Aspiring Data Scientist
+## 📊 BSc Data Science  | Aspiring Data Scientist
 
-I'm a third-semester Data Science undergraduate with a strong passion for Artificial Intelligence and Machine Learning. My goal is to become a Data Scientist and leverage AI to solve real-world problems that create meaningful impact.
+I'm a Data Science undergraduate with a strong passion for Artificial Intelligence and Machine Learning. My goal is to become a Data Scientist and leverage AI to solve real-world problems that create meaningful impact.
 
 ### 💡 About Me
 
