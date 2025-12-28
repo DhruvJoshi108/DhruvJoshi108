@@ -1,7 +1,7 @@
 # Hi there, I'm Dhruv Prakash 👋
 
 <div align="center">
-  <img src="https://cdn-images-1.medium.com/max/1600/1*nWHNQZ3Jxs8mf4XFHK6uLw.gif" width="800" alt="AI Data Science Banner"/>
+  <img src="https://miro.medium.com/max/1400/1*kblux8ItTpq02rUQ4VOCpQ.gif" width="700" alt="NLP Text Processing"/>
 </div>
 
 ## 📊 BSc Data Science  | Aspiring Data Scientist
