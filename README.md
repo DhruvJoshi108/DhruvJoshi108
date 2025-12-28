@@ -1,7 +1,7 @@
 # Hi there, I'm Dhruv Prakash 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="800" alt="AI Data Science Banner"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800" alt="AI Data Science Banner"/>
 </div>
 
 ## 📊 BSc Data Science Student | Aspiring Data Scientist
