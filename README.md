@@ -62,12 +62,15 @@ I'm motivated by the transformative potential of Data Science in today's world. 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvJoshi108&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJoshi108&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvJoshi108&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DhruvJoshi108&theme=radical&hide_border=true" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvJoshi108&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DhruvJoshi108&theme=radical&hide_border=true"/>
 </p>
 
 ### 🏆 Featured Projects
